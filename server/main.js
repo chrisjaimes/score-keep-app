@@ -3,6 +3,7 @@ import {Players} from './../imports/api/players';
 
 Meteor.startup(() =>{
 
+  //testing
   //combining ES5 functions (sayHi) and ES6 functions (arrow function in setTimeout)
   // let user = {
   //   name: 'Chris',
